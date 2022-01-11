@@ -1,0 +1,23 @@
+.header{
+    justify-content:center;
+    display:flex-end;
+    background-color:plum;
+}
+
+.menu{
+    display:flex;
+    justify-content: space-between;
+    background-color:plum;
+    font-size:20px;
+    font-weight:400;
+    color:royalblue;
+}
+
+.origami{
+    display:flex;
+    justify-content: space-between;
+    background-color:rgb(131, 165, 141);
+    font-size:20px;
+    font-weight:400;
+    color:royalblue;   
+}
